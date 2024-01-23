@@ -1,5 +1,11 @@
+import Titulo from "./components/Titulo.jsx";
+
 function App() {
-  return <h1>Hola mundo</h1>;
+  return (
+    <section>
+      <Titulo></Titulo>
+    </section>
+  );
 }
 
 export default App;
