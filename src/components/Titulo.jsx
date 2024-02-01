@@ -1,7 +1,7 @@
 const Titulo = () => {
   return (
     <section>
-      <h1 className="color-titulo">Hello world!</h1>
+      <h1 className="color-titulo">Hola mundo!</h1>
     </section>
   );
 };
